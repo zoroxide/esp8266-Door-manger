@@ -1,7 +1,7 @@
 #include <FS.h> // Include the SPIFFS library
 
 #define sCommunication 115200
-#define ssid "door lock"
+#define ssid "door lock" // SSID
 #define password "123456789"
 
 
